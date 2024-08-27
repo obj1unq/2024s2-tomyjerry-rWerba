@@ -29,7 +29,7 @@ Nota: Acá se trabaja polimorfismo, ordenes, consulta y estado del objeto.
 ### Caso de prueba
 
 - Al inicio, la velocidad máxima de Tom es 10 (su energía es 50)
-- Si come a Jerry, la velocidad máxima pasa a ser  15.2 (su energía es 102)
+- Si come a Jerry, la velocidad máxima pasa a ser 15.2 (su energía es 102)
 - Si corre 24 metros, entonces su velocidad máxima pasa a ser 14 (su energía es 90)
 - Si come a Nibbles, pasa a tener de velocidad máxima 18.7 (su energía es 137)
 - si jerry cumple años (3 años de edad), y luego tom lo vuelve a comer, pasaría a tener 25.9 (su energia es 209)  
